@@ -1,0 +1,64 @@
+{
+  "_from": "susyknot-init@1.0.7",
+  "_id": "susyknot-init@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-w95X+936d66TZCrgJfQcEVfeK6c=",
+  "_location": "/susyknot-init",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "susyknot-init@1.0.7",
+    "name": "susyknot-init",
+    "escapedName": "susyknot-init",
+    "rawSpec": "1.0.7",
+    "saveSpec": null,
+    "fetchSpec": "1.0.7"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/susyknot-init/-/susyknot-init-1.0.7.tgz",
+  "_shasum": "c3de57fbddfa77ae93642ae025f41c1157de2ba7",
+  "_spec": "susyknot-init@1.0.7",
+  "_where": "/home/user",
+  "author": {
+    "name": "Tim Coulter",
+    "email": "tim.coulter@consensys.net"
+  },
+  "bugs": {
+    "url": "https://github.com/susy-knotsuite/susyknot-init/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "github-download": "^0.5.0",
+    "npm-programmatic": "0.0.6",
+    "rimraf": "^2.5.4",
+    "temp": "^0.8.3",
+    "susyknot-config": "^1.0.1"
+  },
+  "deprecated": false,
+  "description": "Initializer for example Susyknot projects",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "homepage": "https://github.com/susy-knotsuite/susyknot-init#readme",
+  "keywords": [
+    "ethereum",
+    "susyknot",
+    "init"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "susyknot-init",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susy-knotsuite/susyknot-init.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.7"
+}
